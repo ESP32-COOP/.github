@@ -1,4 +1,3 @@
-<img src="https://github.com/ESP32-COOP/.github/assets/37497007/cd9949c6-dddd-4b1a-805f-f3ae6b920bc8">
 
 
 
@@ -12,6 +11,17 @@ Cheap and accessible coop door for everyone
 
 
 </div>
+
+
+<p style="display: inline;">
+  <a href="https://github.com/ESP32-COOP/ESP32-COOP-DOOR-WEB">
+     <img src="https://github.com/ESP32-COOP/.github/assets/37497007/a2ef0933-ab83-4326-81db-4333ef8ecb3f" style="width: 45%; padding: 5px;"> 
+  </a>
+  <a href="https://github.com/ESP32-COOP/ESP32-COOP-DOOR-CORE">
+ <img src="https://github.com/ESP32-COOP/.github/assets/37497007/fae212ac-e569-47d4-bb56-b3717735d6e5" style="width: 45%; padding: 5px;"> 
+  </a>
+    
+</p>
 
 
 
