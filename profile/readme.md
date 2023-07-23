@@ -1,5 +1,4 @@
-
-![Frame 13](https://github.com/ESP32-COOP/.github/assets/37497007/cd9949c6-dddd-4b1a-805f-f3ae6b920bc8)
+<img src="https://github.com/ESP32-COOP/.github/assets/37497007/cd9949c6-dddd-4b1a-805f-f3ae6b920bc8">
 
 
 
