@@ -7,7 +7,7 @@
 
 # ESP32 COOP
 
-Cheap and accessible coop door for everyone
+Create an affordable and accessible automatic coop door using ESP32. DIY your chicken coop with customizable behavior based on time and light levels. Control it through a dedicated Bluetooth-enabled app. Find comprehensive build instructions, wiring diagrams, and insights into the communication protocol.
 
 
 </div>
